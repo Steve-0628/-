@@ -5,3 +5,4 @@ __pycache__/
 minecraft_/
 downloader.sh
 launchargs.sh
+.DS_Store
