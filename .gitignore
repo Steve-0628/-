@@ -1,0 +1,7 @@
+get_proxy.py
+minecraft/
+logs/
+__pycache__/
+minecraft_/
+downloader.sh
+launchargs.sh
